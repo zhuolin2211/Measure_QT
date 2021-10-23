@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/back">
+        <file>resoure/back/main.jpg</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>resoure/icon/state_relay_off.png</file>
+        <file>resoure/icon/state_relay_on.png</file>
+        <file>resoure/icon/menu.png</file>
+        <file>resoure/icon/history.png</file>
+        <file>resoure/icon/back.png</file>
+        <file>resoure/icon/clean.png</file>
+    </qresource>
+</RCC>
